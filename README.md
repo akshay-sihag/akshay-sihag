@@ -26,12 +26,12 @@ Welcome to my GitHub profile! I'm Akshay Sihag, a Full Stack Web Developer and E
 
 ## Featured Projects ✨
 ### [UpFive.ai](https://github.com/akshay-sihag/UpFive.ai)
-- Description: An AI-powered tool designed to [add brief description of what it does once public].
+- Description: An AI-powered tool designed to generate cover letters for Upwork projects.
 - Tech: React.js, Next.js, Tailwind CSS
 - [🔗 Link to repo](https://github.com/akshay-sihag/UpFive.ai)
 
 ### [Json-based-Ai-content-writer](https://github.com/akshay-sihag/Json-based-Ai-content-writer)
-- Description: An AI content writer leveraging JSON for structured outputs.
+- Description: An AI content writer leveraging JSON for SEO content output.
 - Tech: React.js, Next.js, Tailwind CSS
 - [🔗 Link to repo](https://github.com/akshay-sihag/Json-based-Ai-content-writer)
 
