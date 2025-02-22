@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Akshay Sihag, a Full Stack Web Developer and E
 - 🌱 Learning: React.js, Next.js, and Tailwind CSS
 - 👯 Looking to collaborate on: Innovative web and AI projects
 - 💬 Ask me about: Full Stack Development, CMS, AI tools, or entrepreneurship
-- 📫 Reach me at: [Add your email if you'd like]
+- 📫 Reach me at: akshaysihag@outlook.com
 - ⚡ Fun fact: I thrive on turning coffee into code and startups into success!
 
 ## Tech Stack 🛠️
