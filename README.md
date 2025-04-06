@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Akshay Sihag, a Full Stack Web Developer and E
 
 ## About Me ℹ️
 - 🔭 Currently working on: AI tools with React.js
-- 🌱 Learning: React.js, Next.js, and Tailwind CSS
+- 🌱 Learning: Python & Vue.js
 - 👯 Looking to collaborate on: Innovative web and AI projects
 - 💬 Ask me about: Full Stack Development, CMS, AI tools, or entrepreneurship
 - 📫 Reach me at: akshaysihag@outlook.com
